@@ -1,12 +1,14 @@
 {
   "name": "karma-es5-shim",
   "author": "Bence Kormos <ben.kormos@gmail.com>",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "index.js",
   "keywords": [
     "karma",
     "es5-shim",
-    "karma-es5-shim"
+    "karma-es5-shim",
+    "karma-plugin",
+    "karma-framework"
   ],
   "dependencies": {
     "es5-shim": "^4.0.5"

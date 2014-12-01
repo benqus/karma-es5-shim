@@ -1,0 +1,18 @@
+{
+  "name": "karma-es5-shim",
+  "author": "Bence Kormos <ben.kormos@gmail.com>",
+  "version": "0.0.1",
+  "main": "index.js",
+  "keywords": [
+    "karma",
+    "es5-shim",
+    "karma-es5-shim"
+  ],
+  "dependencies": {
+    "es5-shim": "^4.0.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benqus/karma-es5-shim"
+  }
+}

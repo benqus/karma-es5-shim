@@ -1,7 +1,7 @@
 {
   "name": "karma-es5-shim",
   "author": "Bence Kormos <ben.kormos@gmail.com>",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "keywords": [
     "karma",

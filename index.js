@@ -1,7 +1,12 @@
 var path = require('path');
 
 var createPattern = function (pattern) {
-    return { pattern: pattern, included: true, watched: false };
+    return {
+        pattern: pattern,
+        included: true,
+        served: true,
+        watched: false
+    };
 };
 
 var initShim = function (files) {
